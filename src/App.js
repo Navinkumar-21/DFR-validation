@@ -18,12 +18,6 @@ function App() {
     }
   ];
 
-  const string = "sdkfjhds"
-  const int = 1
-  const double = 3.4
-  const arrayString = ["suytd", "aksajghd"]
-  const arrayInt = [1, 2, 4]
-  const object = {"name": "askdjh", "age": 4}
 
   const errors = {
     uname: "invalid username",
